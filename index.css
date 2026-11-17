@@ -1,0 +1,15 @@
+style.css
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background-image: url(https://i.pinimg.com/736x/e3/00/3f/e3003f2167a38ac1249fcf514bda29f1.jpg);
+    background-color: aqua;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
